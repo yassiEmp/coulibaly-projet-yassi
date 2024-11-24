@@ -1,0 +1,9 @@
+﻿Nom,Quantité,Composant
+"R1, R2",2,1 kΩ Résistance
+U2,1," Entraînement de moteur à pont en H"
+D1,1,Rouge LED
+U1,1," Arduino Uno R3"
+PIR1,1," Capteur infrarouge passif"
+M1,1," Moteur à engrenages"
+S1,1," Bouton-poussoir"
+BAT1,1," Pile 9 V"
